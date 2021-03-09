@@ -1,0 +1,14 @@
+numpy
+pandas
+pandas-profiling
+scikit-learn
+category-encoders
+shapash
+lightgbm
+streamlit
+plotly
+matplotlib
+seaborn
+joblib
+tqdm
+watchdog

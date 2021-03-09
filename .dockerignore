@@ -1,0 +1,7 @@
+.git
+.cache
+.idea
+.vscode
+env/
+notes/
+*.md
